@@ -1,8 +1,12 @@
 {
+  "schema_version": 1,
   "project": "UPF26",
   "publisher": "SCC Nexus",
+  "canonical_site": "https://pythongitgub.github.io/UPF-26-Observartory/",
   "source_repository_visibility": "private",
-  "source_commit": "2237934e4736f4e1c74255b03a9d2d63100c45f8",
+  "source_commit": "6eb856c35f1812ea2036c3d9bd2f284697a074f8",
+  "source_publication_path": "site/",
   "publication_repository": "pythongitgub/UPF-26-Observartory",
-  "publication_gate": "UPF26 CI success on main"
+  "publication_gate": "UPF26 CI success on main",
+  "methodology_release": "0.1.0"
 }
