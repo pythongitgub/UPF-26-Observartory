@@ -2,7 +2,7 @@
   "project": "UPF26",
   "publisher": "SCC Nexus",
   "source_repository_visibility": "private",
-  "source_commit": "e1724990a9c34597f31f967f50a5dde8ca75aeff",
+  "source_commit": "faefa5b48488574a0e95ab83533a3b5776f80528",
   "publication_repository": "pythongitgub/UPF-26-Observartory",
   "publication_gate": "UPF26 CI success on main"
 }
