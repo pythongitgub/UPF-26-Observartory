@@ -1,5 +1,7 @@
 # UPF26 — Food Processing Evidence Observatory
 
+[![SCC Nexus](https://sccnexus.co.uk/assets/brand/scc-nexus-wordmark.webp)](https://sccnexus.co.uk/)
+
 This is the **public publication repository** for UPF26, an SCC Nexus evidence-first research project.
 
 **Public site:** https://pythongitgub.github.io/UPF-26-Observartory/
