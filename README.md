@@ -4,7 +4,7 @@
 
 This is the **public publication repository** for UPF26, an SCC Nexus evidence-first research project.
 
-**Public site:** https://pythongitgub.github.io/UPF-26-Observartory/
+**Public site:** https://sccupf.github.io/observatory/
 
 The research engine, protocol development, validation logic and working materials are maintained separately. This repository is intentionally a one-way publication surface: only material approved for public release is copied here.
 
